@@ -1,10 +1,10 @@
 /******************************************************************************
  *  Compilation:  javac HelloGoodbye.java
- *  Execution:    java HelloGoodbye Kevin Bob
+ *  Execution:    java HelloGoodbye Katongole Mubarak
  *  
- *  Reads in two Names command-line arguments and prints "Hello Kevin and Bob" and "Goodbyu Kevin and Bob"
+ *  Reads in two Names command-line arguments and prints "Hello Katongole and Mubarak" and "Goodbyu Katongole and Mubarak"
  *
- *  % java HelloGoodbye Kevin Bob
+ *  % java HelloGoodbye Katongole Mubarak
  ******************************************************************************/
 
 
