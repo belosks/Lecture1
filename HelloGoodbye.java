@@ -14,7 +14,7 @@ public class HelloGoodbye {
 		 System.out.print( args[0] );
 		 System.out.print( " and " );
 		 System.out.println( args[1] + "." );
-		 System.out.print( "Goodbuy " );
+		 System.out.print( "Goodbye " );
 		 System.out.print( args[1] );
 		 System.out.print( " and " );
 		 System.out.println( args[0] + "." );
